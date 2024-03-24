@@ -44,7 +44,7 @@ button {
 </style>   
 </head>    
 <body>    
-    <center> <h1> Project on boarding form  </h1> </center>   
+    <center> <h1>  pipelines  </h1> </center>   
     <form>  
         <div class="container">   
             <label>Employee name : </label>   
